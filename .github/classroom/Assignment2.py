@@ -1,3 +1,0 @@
-print.("Hi there")
-
-print
